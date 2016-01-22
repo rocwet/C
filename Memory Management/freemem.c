@@ -1,7 +1,7 @@
 /*
 The freemem.c file contains the implementation of the freemem function
 
-@author Minh Khuu
+@author Matthew Braun
 @date 2015.11.18
 */
  

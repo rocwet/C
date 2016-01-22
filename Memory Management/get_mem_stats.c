@@ -2,7 +2,7 @@
 The get_mem_stats.c file contains the implementation of the get_mem_stats
 function
 
-@author Minh Khuu
+@author  Mathew Braun
 @date 2015.11.18
  */
 

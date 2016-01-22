@@ -3,6 +3,7 @@ The bench.c file contains the top level function to be called to test
 the memory management system. 
 
 @author  Minh Khuu
+@author  Mathew Braun
 @date    2015.11.18
 */
 

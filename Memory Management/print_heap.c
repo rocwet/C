@@ -2,7 +2,7 @@
 The print_heap.c file contains the implementation of the print_heap 
 function
 
-@author  Minh Khuu
+@author  Mathew Braun
 @date    2015.11.18
 */
 
