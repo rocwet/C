@@ -3,6 +3,7 @@
 
 ## Authors
 Minh Khuu
+Matthew Braun
 
 ### Date
 2015.11.17 to 2015.12.03
